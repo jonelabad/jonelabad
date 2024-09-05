@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 <div align="center"> 
   <div id="badges">
-  <a href="https://www.facebook.com/" target="_blank">
+  <a href="https://www.facebook.com/nimu.smille?mibextid=ZbWKwL" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <a href="https://www.instagram.com/russcuevas/" target="_blank">
+  <a href="https://www.instagram.com/nimu.moves/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://twitter.com/russelcvs_" target="_blank">
+  <a href="https://x.com/AbadCasinillo?s=09" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
   </div>
