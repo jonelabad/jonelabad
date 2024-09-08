@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg" width="350" />
+  <img src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif" width="350" />
 </div>
 
 <div align="center"> 
