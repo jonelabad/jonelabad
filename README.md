@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://c.tenor.com/fY9qjoBwbLkAAAAM/anonymous-dance-anonymous-dancing.gif" width="250" />
+  <img src="https://c.tenor.com/fY9qjoBwbLkAAAAM/anonymous-dance-anonymous-dancing.gif" width="170" />
 </div>
 
 <div align="center"> 
